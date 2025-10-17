@@ -1,4 +1,4 @@
-<div align="center"><h1>PointCrow Speed Run Competition</h1>
+<div align="center"><h1>PointCrow's Speed Run</h1>
 
 October 2025 | Rank #5 | Score 49,980 / 50,000</div>
 
@@ -8,7 +8,7 @@ October 2025 | Rank #5 | Score 49,980 / 50,000</div>
 
 This report documents my participation in the “**PointCrow’s Speed Run”** AI Red Teaming Challenge, hosted by [HackAPrompt](https://www.hackaprompt.com/track/pointcrow), a competitive series of ten tasks focused on exposing and exploiting language model vulnerabilities through creative prompt manipulation and system-level reasoning. The competition prohibited automation and required manual submissions via a web interface, emphasizing human strategy, adaptability, and precision. Scoring was token-sensitive; fewer tokens in successful exploits earned higher points, driving participants to balance reliability with extreme efficiency.
 
-**Key Insight:** Demonstrated that semantic manipulation through minimal contextual priming (avg. 2 tokens) consistently outperforms traditional obfuscation techniques (8+ tokens) in bypassing content filters.
+> **Key Insight:** Demonstrated that semantic manipulation through minimal contextual priming (avg. 2 tokens) consistently outperforms traditional obfuscation techniques (8+ tokens) in bypassing content filters.
 
 ---
 
